@@ -1,0 +1,16 @@
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\Antes e Depois.exe
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\Antes e Depois.deps.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\Antes e Depois.runtimeconfig.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\Antes e Depois.runtimeconfig.dev.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\Antes e Depois.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\ref\Antes e Depois.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\bin\Debug\net5.0\Antes e Depois.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.csproj.AssemblyReference.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.AssemblyInfoInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.AssemblyInfo.cs
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.csproj.CoreCompileInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\ref\Antes e Depois.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Antes e Depois\obj\Debug\net5.0\Antes e Depois.genruntimeconfig.cache

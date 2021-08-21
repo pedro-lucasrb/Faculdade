@@ -1,0 +1,16 @@
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\Conversor de temperatura.exe
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\Conversor de temperatura.deps.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\Conversor de temperatura.runtimeconfig.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\Conversor de temperatura.runtimeconfig.dev.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\Conversor de temperatura.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\ref\Conversor de temperatura.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\bin\Debug\net5.0\Conversor de temperatura.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.csproj.AssemblyReference.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.AssemblyInfoInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.AssemblyInfo.cs
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\ref\Conversor de temperatura.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Conversor de temperatura\obj\Debug\net5.0\Conversor de temperatura.genruntimeconfig.cache

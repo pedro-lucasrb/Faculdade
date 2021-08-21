@@ -1,0 +1,16 @@
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\Desconto.exe
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\Desconto.deps.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\Desconto.runtimeconfig.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\Desconto.runtimeconfig.dev.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\Desconto.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\ref\Desconto.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\bin\Debug\net5.0\Desconto.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.csproj.AssemblyReference.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.AssemblyInfoInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.AssemblyInfo.cs
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\ref\Desconto.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Desconto\obj\Debug\net5.0\Desconto.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Antes e Depois/1.0.0": {
+        "runtime": {
+          "Antes e Depois.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antes e Depois/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

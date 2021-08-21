@@ -1,0 +1,16 @@
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\Salário.exe
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\Salário.deps.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\Salário.runtimeconfig.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\Salário.runtimeconfig.dev.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\Salário.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\ref\Salário.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\bin\Debug\net5.0\Salário.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.csproj.AssemblyReference.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.AssemblyInfoInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.AssemblyInfo.cs
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.csproj.CoreCompileInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\ref\Salário.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Salário\obj\Debug\net5.0\Salário.genruntimeconfig.cache

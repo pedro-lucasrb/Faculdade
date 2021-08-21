@@ -1,0 +1,16 @@
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\Triângulo.exe
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\Triângulo.deps.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\Triângulo.runtimeconfig.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\Triângulo.runtimeconfig.dev.json
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\Triângulo.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\ref\Triângulo.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\bin\Debug\net5.0\Triângulo.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.csproj.AssemblyReference.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.AssemblyInfoInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.AssemblyInfo.cs
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\ref\Triângulo.dll
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.pdb
+C:\Users\6110163\OneDrive - Thomson Reuters Incorporated\Desktop\C#\.vs\Triângulo\obj\Debug\net5.0\Triângulo.genruntimeconfig.cache
